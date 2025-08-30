@@ -1,6 +1,5 @@
 .main {
   min-height: 80vh;
-  background-color: hsl(0, 0%, 100%);
   display: flex;
   flex-direction: column;
   place-items: center center;
@@ -14,7 +13,6 @@
 text-align: center;
   background: #e6e6e6de;
   border-radius: 20px;
-  grid-template-rows: auto auto;
   place-items: center;
   min-height: 25vh;
   display: grid;
