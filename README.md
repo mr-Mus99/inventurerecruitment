@@ -27,6 +27,4 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-contributions are welcome!
 # inventurerecruitment
->>>>>>> e83bf16e3aa3591ef22ddbce2c72dd1c3d1f4efe
